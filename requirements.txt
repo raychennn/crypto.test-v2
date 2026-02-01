@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+APScheduler>=3.10
+ccxt>=4.0.0
+pandas>=2.0.0
+numpy>=1.23.0
+pytz
